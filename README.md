@@ -12,4 +12,4 @@
 
 ![alt text][selfie]
 
-[selfie]: 
+[selfie]: RJ_square.JPG
