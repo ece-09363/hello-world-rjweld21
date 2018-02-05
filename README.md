@@ -10,6 +10,6 @@
 
 2. Tell me something interesting about yourself
 
-![alt text][selfie]
+![alt text][rjselfie]
 
-[selfie]: RJ_square.JPG
+[rjselfie]: RJ_square.JPG
