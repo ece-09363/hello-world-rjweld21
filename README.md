@@ -9,3 +9,7 @@
 [selfie]: IMG_20180129_125611.jpg
 
 2. Tell me something interesting about yourself
+
+![alt text][selfie]
+
+[selfie]: 
